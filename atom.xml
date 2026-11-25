@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>博主</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://folkmzhc-crypto.github.io/</id>
+  <link href="https://folkmzhc-crypto.github.io/" rel="alternate"/>
+  <link href="https://folkmzhc-crypto.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 博主</rights>
+  <subtitle>记录 · 分享 · 成长</subtitle>
+  <title>我的博客</title>
+  <updated>2026-11-24T14:49:52.417Z</updated>
+  <entry>
+    <author>
+      <name>博主</name>
+    </author>
+    <category term="生活" scheme="https://folkmzhc-crypto.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://folkmzhc-crypto.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<p>这是用 Hexo 搭好博客后写下的第一篇文章。</p><hr><p><strong>常用命令速记</strong></p><ul><li>新建文章：<code>hexo new &quot;标题&quot;</code></li><li>本地预览：<code>hexo s</code> → <a href="http://localhost:4000/">http://localhost:4000</a></li><li>生成静态文件：<code>hexo g</code> → 输出到 public&#x2F; 目录</li><li>发布上线：<code>hexo d</code></li></ul>]]>
+    </content>
+    <id>https://folkmzhc-crypto.github.io/2026/11/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="https://folkmzhc-crypto.github.io/2026/11/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <published>2026-11-24T14:49:37.000Z</published>
+    <summary>
+      <![CDATA[<p>这是用 Hexo 搭好博客后写下的第一篇文章。</p>
+<hr>
+<p><strong>常用命令速记</strong></p>
+<ul>
+<li>新建文章：<code>hexo new]]>
+    </summary>
+    <title>第一篇文章</title>
+    <updated>2026-11-24T14:49:52.417Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>博主</name>
+    </author>
+    <content>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre class="line-numbers language-hljs bash">$ hexo new <span class="hljs-string"><code class="language-hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre class="line-numbers language-hljs bash"><code class="language-hljs bash">$ hexo server<br><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre class="line-numbers language-hljs bash"><code class="language-hljs bash">$ hexo generate<br><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre class="line-numbers language-hljs bash"><code class="language-hljs bash">$ hexo deploy<br><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+    </content>
+    <id>https://folkmzhc-crypto.github.io/2026/11/24/hello-world/</id>
+    <link href="https://folkmzhc-crypto.github.io/2026/11/24/hello-world/"/>
+    <published>2026-11-24T14:46:51.258Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-11-24T14:42:51.900Z</updated>
+  </entry>
+</feed>
